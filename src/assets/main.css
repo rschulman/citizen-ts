@@ -1,0 +1,35 @@
+.article {
+    margin: auto;
+    width: 60%;
+    border-bottom: 1px solid lightgrey;
+}
+
+.comment-container {
+    margin: auto;
+    width: 60%;
+}
+
+.comment {
+    margin-left: 20px;
+    border-bottom: 1px solid lightgrey;
+}
+
+.disagree {
+    border: 1px solid lightgrey;
+    margin: 5px;
+}
+
+.title {
+    font-size: large;
+}
+
+.reminder {
+    color: darkgray;
+    font-size: small;
+}
+
+.label {
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+}
